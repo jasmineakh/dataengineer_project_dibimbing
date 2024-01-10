@@ -1,0 +1,44 @@
+Rank,Province,Region,GDP[8](in billion Rp),GDP Nominal,GDP PPP
+Rank,Province,Region,GDP[8](in billion Rp),(in billion $),(in billion $)
+-,Indonesia,South East Asia,19588455,1319.19,4023.5
+-,Java Island,Indonesia,10813999,728.27,2272.54
+-,Sumatra Island,Indonesia,4220203,284.21,886.87
+1,Jakarta,Java,3186470,214.59,669.63
+2,East Java,Java,2730907,183.91,573.89
+3,West Java,Java,2422782,163.16,509.14
+-,Kalimantan,Indonesia,1767053,119.0,371.34
+4,Central Java,Java,1560899,105.12,328.02
+-,Sulawesi Island,Indonesia,1168122,81.64,245.72
+5,Riau,Sumatra,991589,66.78,208.38
+6,North Sumatra,Sumatra,955193,64.33,200.73
+7,East Kalimantan,Kalimantan,921332,62.05,193.62
+8,Banten,Java,747250,50.32,157.03
+9,South Sulawesi,Sulawesi,605145,40.75,124.32
+10,South Sumatra,Sumatra,591603,39.84,124.32
+-,Lesser Sunda Islands,Indonesia,520895,35.08,109.46
+11,Lampung,Sumatra,414131,27.89,87.03
+-,Western New Guinea,Indonesia,353806,23.83,74.35
+12,Central Sulawesi,Sulawesi,323617,21.79,68.01
+13,Riau Islands,Sumatra,308843,20.8,64.9
+14,West Sumatra,Sumatra,285379,19.22,59.97
+15,Jambi,Sumatra,276316,18.61,58.07
+16,Papua,Western New Guinea,262516,17.68,55.17
+17,West Kalimantan,Kalimantan,255797,17.23,53.76
+18,South Kalimantan,Kalimantan,251256,16.92,52.8
+19,Bali,Lesser Sunda Islands,245233,16.52,51.54
+20,Aceh,Sumatra,211750,14.26,44.5
+21,Central Kalimantan,Kalimantan,199948,13.47,42.02
+22,Special Region of Yogyakarta,Java,165690,11.16,34.82
+23,Southeast Sulawesi,Sulawesi,158761,10.69,33.36
+24,North Sulawesi,Sulawesi,157028,10.58,33.0
+25,West Nusa Tenggara,Lesser Sunda Islands,156944,10.57,32.98
+26,North Kalimantan,Kalimantan,138718,9.34,29.15
+-,Maluku Islands,Indonesia,124596,8.39,26.18
+27,East Nusa Tenggara,Lesser Sunda Islands,118718,8.0,24.95
+28,Bangka Belitung Islands,Sumatra,95285,6.42,20.02
+29,West Papua,Western New Guinea,91292,6.15,19.18
+30,Bengkulu,Sumatra,90112,6.07,18.94
+31,North Maluku,Maluku Islands,70903,4.77,14.9
+32,West Sulawesi,Sulawesi,54071,3.64,11.36
+33,Maluku,Maluku Islands,53692,3.62,11.28
+34,Gorontalo,Sulawesi,47574,3.2,10.0
