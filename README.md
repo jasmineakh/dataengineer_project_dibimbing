@@ -14,6 +14,8 @@ format yang sesuai dengan kebutuhan.
 This project is part of Data Engineering Challenge, DataSeriesFair4.0 by Dibimbing.id
 Here is the pdf https://drive.google.com/file/d/1bfAlt4rdr5laB8Gil2oOc51rlOzmmsl3/view?usp=drive_link
 
+Here's my presentation slide here https://www.canva.com/design/DAF5j2l8IDI/s1Ec49LwSPtsEOfCG9Udag/edit?utm_content=DAF5j2l8IDI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Data Source
 Wikipedia: https://en.wikipedia.org/wiki/List_of_Indonesian_provinces_by_GDP
 
