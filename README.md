@@ -20,3 +20,8 @@ Wikipedia: https://en.wikipedia.org/wiki/List_of_Indonesian_provinces_by_GDP
 Dashboard Visualization
 https://lookerstudio.google.com/s/t8n2PHTZel0
 ![Screenshot (1309)](https://github.com/jasmineakh/dataengineer_project_dibimbing/assets/95737098/a5be24d1-31b6-4928-b21f-7265709f51c4)
+
+# Conclusion
+- Jakarta, ranked first in GDP among all provinces, with a GDP of IDR 3,186,470 billion. 
+- Followed by the provinces of East Java and West Java, both provinces have a GDP of IDR 2,730,907 billion for East Java and IDR 2,422,782 billion for West Java.
+- It can be concluded that the largest amount of GDP is on the island of Java.
